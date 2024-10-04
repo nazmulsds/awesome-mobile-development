@@ -41,6 +41,7 @@ This is a repository full of resources that you might find useful whether you ar
 - [Flutter : let’s know the ScrollController and ScrollNotification](https://medium.com/@diegoveloper/flutter-lets-know-the-scrollcontroller-and-scrollnotification-652b2685a4ac)
 - [Flutter: Push, Pop, Push](https://medium.com/flutter-community/flutter-push-pop-push-1bb718b13c31)
 - [Testing Flutter Applications](https://proandroiddev.com/testing-flutter-applications-f961969da86a)
+- [Flutter EasyRefresh](https://coseries.com/flutter-easyrefresh/)
 
 ### 🛠 Tools
 - [Start Flutter](https://startflutter.com/): Shows a list of different templates created with Flutter and ready to download or copy.
